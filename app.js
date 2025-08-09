@@ -1,3 +1,7 @@
+//Note: Used AI for some excercies to make the code more articulate/coherent.
+// Only did such after my implementation attempt was successful, 
+// even if it was not efficient. Hence, used AI to overcome that. 
+
 const inventors = [
     { first: 'Albert', last: 'Einstein', year: 1879, passed: 1955 },
     { first: 'Isaac', last: 'Newton', year: 1643, passed: 1727 },
